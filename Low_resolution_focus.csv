@@ -1,0 +1,1634 @@
+Sheet_nb;Date;Species;Nb_active;Nb_inactive;Nb_OOS;Total_ind;Enclosure_status;Lockdown
+211;13/06/2020;Beaded lizard;0;2;1;3;Closed;1
+211;13/06/2020;Beaded lizard;0;2;1;3;Closed;1
+211;13/06/2020;Beaded lizard;0;2;1;3;Closed;1
+220;14/06/2020;Beaded lizard;0;3;0;3;Closed;1
+220;14/06/2020;Beaded lizard;0;3;0;3;Closed;1
+220;14/06/2020;Beaded lizard;0;3;0;3;Closed;1
+220;14/06/2020;Beaded lizard;0;3;0;3;Closed;1
+129;06/11/2020;Beaded lizard;0;0;3;3;Closed;2
+129;06/11/2020;Beaded lizard;0;0;3;3;Closed;2
+130;06/11/2020;Beaded lizard;0;0;3;3;Closed;2
+130;07/11/2020;Beaded lizard;0;0;3;3;Closed;2
+131;07/11/2020;Beaded lizard;0;0;3;3;Closed;2
+134;07/11/2020;Beaded lizard;1;0;2;3;Closed;2
+131;08/11/2020;Beaded lizard;0;0;3;3;Closed;2
+132;08/11/2020;Beaded lizard;0;0;3;3;Closed;2
+132;08/11/2020;Beaded lizard;1;0;2;3;Closed;2
+133;09/11/2020;Beaded lizard;0;0;3;3;Closed;2
+133;09/11/2020;Beaded lizard;0;0;3;3;Closed;2
+134;10/11/2020;Beaded lizard;0;1;2;3;Closed;2
+135;10/11/2020;Beaded lizard;0;1;2;3;Closed;2
+135;11/11/2020;Beaded lizard;0;1;2;3;Closed;2
+136;11/11/2020;Beaded lizard;0;1;2;3;Closed;2
+136;11/11/2020;Beaded lizard;0;1;2;3;Closed;2
+137;12/11/2020;Beaded lizard;0;1;2;3;Closed;2
+137;12/11/2020;Beaded lizard;1;0;2;3;Closed;2
+138;12/11/2020;Beaded lizard;1;0;2;3;Closed;2
+139;13/11/2020;Beaded lizard;0;1;2;3;Closed;2
+140;14/11/2020;Beaded lizard;0;2;1;3;Closed;2
+140;14/11/2020;Beaded lizard;0;2;1;3;Closed;2
+141;14/11/2020;Beaded lizard;0;1;2;3;Closed;2
+141;15/11/2020;Beaded lizard;0;2;1;3;Closed;2
+142;15/11/2020;Beaded lizard;0;2;1;3;Closed;2
+142;15/11/2020;Beaded lizard;0;2;1;3;Closed;2
+143;16/11/2020;Beaded lizard;0;1;2;3;Closed;2
+143;16/11/2020;Beaded lizard;0;1;2;3;Closed;2
+144;16/11/2020;Beaded lizard;0;1;2;3;Closed;2
+144;17/11/2020;Beaded lizard;0;2;1;3;Closed;2
+145;17/11/2020;Beaded lizard;0;1;2;3;Closed;2
+145;17/11/2020;Beaded lizard;0;1;2;3;Closed;2
+146;18/11/2020;Beaded lizard;0;1;2;3;Closed;2
+146;18/11/2020;Beaded lizard;0;2;1;3;Closed;2
+147;18/11/2020;Beaded lizard;0;1;2;3;Closed;2
+147;19/11/2020;Beaded lizard;0;1;2;3;Closed;2
+148;19/11/2020;Beaded lizard;0;1;2;3;Closed;2
+148;19/11/2020;Beaded lizard;1;0;2;3;Closed;2
+149;20/11/2020;Beaded lizard;0;1;2;3;Closed;2
+149;20/11/2020;Beaded lizard;0;1;2;3;Closed;2
+150;20/11/2020;Beaded lizard;0;2;1;3;Closed;2
+150;20/11/2020;Beaded lizard;0;1;2;3;Closed;2
+151;21/11/2020;Beaded lizard;0;1;2;3;Closed;2
+151;21/11/2020;Beaded lizard;0;0;3;3;Closed;2
+152;21/11/2020;Beaded lizard;0;1;2;3;Closed;2
+152;22/11/2020;Beaded lizard;0;1;2;3;Closed;2
+153;22/11/2020;Beaded lizard;0;1;2;3;Closed;2
+153;22/11/2020;Beaded lizard;0;1;2;3;Closed;2
+154;23/11/2020;Beaded lizard;0;1;2;3;Closed;2
+154;23/11/2020;Beaded lizard;0;2;1;3;Closed;2
+155;23/11/2020;Beaded lizard;0;2;1;3;Closed;2
+156;24/11/2020;Beaded lizard;0;2;1;3;Closed;2
+156;24/11/2020;Beaded lizard;0;2;1;3;Closed;2
+157;24/11/2020;Beaded lizard;0;2;1;3;Closed;2
+157;25/11/2020;Beaded lizard;0;2;1;3;Closed;2
+158;25/11/2020;Beaded lizard;0;2;1;3;Closed;2
+158;25/11/2020;Beaded lizard;0;1;2;3;Closed;2
+159;26/11/2020;Beaded lizard;0;2;1;3;Closed;2
+155;26/11/2020;Beaded lizard;0;1;2;3;Closed;2
+159;27/11/2020;Beaded lizard;0;2;1;3;Closed;2
+160;27/11/2020;Beaded lizard;1;2;0;3;Closed;2
+160;27/11/2020;Beaded lizard;1;2;0;3;Closed;2
+161;28/11/2020;Beaded lizard;0;2;1;3;Closed;2
+161;28/11/2020;Beaded lizard;0;1;2;3;Closed;2
+162;28/11/2020;Beaded lizard;0;1;2;3;Closed;2
+162;29/11/2020;Beaded lizard;0;1;2;3;Closed;2
+163;29/11/2020;Beaded lizard;0;1;2;3;Closed;2
+163;29/11/2020;Beaded lizard;0;2;1;3;Closed;2
+164;30/11/2020;Beaded lizard;0;1;2;3;Closed;2
+164;30/11/2020;Beaded lizard;0;1;2;3;Closed;2
+165;30/11/2020;Beaded lizard;3;0;0;3;Closed;2
+165;01/12/2020;Beaded lizard;0;1;2;3;Closed;2
+166;01/12/2020;Beaded lizard;0;2;1;3;Closed;2
+166;01/12/2020;Beaded lizard;0;3;0;3;Closed;2
+167;02/12/2020;Beaded lizard;0;2;1;3;Closed;2
+167;02/12/2020;Beaded lizard;1;2;0;3;Closed;2
+168;02/12/2020;Beaded lizard;0;2;1;3;Closed;2
+168;03/12/2020;Beaded lizard;1;1;1;3;Open;2
+169;03/12/2020;Beaded lizard;0;1;2;3;Open;2
+169;03/12/2020;Beaded lizard;0;1;2;3;Open;2
+170;04/12/2020;Beaded lizard;0;2;1;3;Open;2
+171;04/12/2020;Beaded lizard;0;3;0;3;Open;2
+170;04/12/2020;Beaded lizard;0;2;1;3;Open;2
+171;05/12/2020;Beaded lizard;0;1;2;3;Open;2
+172;05/12/2020;Beaded lizard;0;1;2;3;Open;2
+172;06/12/2020;Beaded lizard;0;1;2;3;Open;2
+173;06/12/2020;Beaded lizard;0;1;2;3;Open;2
+173;06/12/2020;Beaded lizard;0;1;2;3;Open;2
+174;07/12/2020;Beaded lizard;0;1;2;3;Open;2
+174;07/12/2020;Beaded lizard;1;1;1;3;Open;2
+175;07/12/2020;Beaded lizard;0;2;1;3;Open;2
+177;08/12/2020;Beaded lizard;0;2;1;3;Open;2
+176;08/12/2020;Beaded lizard;0;2;1;3;Open;2
+175;08/12/2020;Beaded lizard;0;2;1;3;Open;2
+176;08/12/2020;Beaded lizard;0;2;1;3;Open;2
+177;09/12/2020;Beaded lizard;0;2;1;3;Open;2
+178;09/12/2020;Beaded lizard;0;2;1;3;Open;2
+178;10/12/2020;Beaded lizard;0;1;2;3;Open;2
+179;10/12/2020;Beaded lizard;0;2;1;3;Open;2
+179;11/12/2020;Beaded lizard;0;2;1;3;Open;2
+180;11/12/2020;Beaded lizard;0;2;1;3;Open;2
+180;11/12/2020;Beaded lizard;0;2;1;3;Open;2
+181;12/12/2020;Beaded lizard;0;2;1;3;Open;2
+182;12/12/2020;Beaded lizard;0;2;1;3;Open;2
+181;12/12/2020;Beaded lizard;0;2;1;3;Open;2
+182;13/12/2020;Beaded lizard;0;2;1;3;Open;2
+183;13/12/2020;Beaded lizard;0;1;2;3;Open;2
+183;13/12/2020;Beaded lizard;0;1;2;3;Open;2
+184;14/12/2020;Beaded lizard;0;1;2;3;Open;2
+184;14/12/2020;Beaded lizard;0;2;1;3;Open;2
+185;14/12/2020;Beaded lizard;0;2;1;3;Open;2
+185;15/12/2020;Beaded lizard;0;2;1;3;Open;2
+186;15/12/2020;Beaded lizard;1;2;0;3;Open;2
+187;16/12/2020;Beaded lizard;0;3;0;3;Open;2
+186;16/12/2020;Beaded lizard;0;2;1;3;Open;2
+187;16/12/2020;Beaded lizard;0;2;1;3;Open;2
+188;17/12/2020;Beaded lizard;0;3;0;3;Open;2
+188;17/12/2020;Beaded lizard;0;2;1;3;Open;2
+214;13/06/2020;Blue tree monitor ;0;1;0;1;Closed;1
+214;13/06/2020;Blue tree monitor ;1;0;0;1;Closed;1
+215;13/06/2020;Blue tree monitor ;0;1;0;1;Closed;1
+216;14/06/2020;Blue tree monitor ;0;1;0;1;Closed;1
+216;14/06/2020;Blue tree monitor ;1;0;0;1;Closed;1
+217;14/06/2020;Blue tree monitor ;1;0;0;1;Closed;1
+218;14/06/2020;Blue tree monitor ;0;1;0;1;Closed;1
+227;15/06/2020;Blue tree monitor ;0;1;0;1;Closed;1
+227;15/06/2020;Blue tree monitor ;1;0;0;1;Closed;1
+228;15/06/2020;Blue tree monitor ;0;0;1;1;Closed;1
+129;06/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+129;06/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+130;06/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+130;07/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+131;07/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+134;07/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+131;08/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+132;08/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+132;08/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+133;09/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+133;09/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+134;10/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+135;10/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+135;11/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+136;11/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+136;11/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+137;12/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+137;12/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+138;12/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+139;13/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+139;13/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+140;14/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+140;14/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+141;14/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+141;15/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+142;15/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+142;15/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+143;16/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+143;16/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+144;16/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+144;17/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+145;17/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+145;17/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+146;18/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+146;18/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+147;18/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+147;19/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+148;19/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+148;19/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+149;20/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+149;20/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+150;20/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+150;20/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+151;21/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+151;21/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+152;21/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+152;22/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+153;22/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+153;22/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+154;23/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+154;23/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+155;23/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+156;24/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+156;24/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+157;24/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+157;25/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+158;25/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+158;25/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+159;26/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+155;26/11/2020;Blue tree monitor ;0;0;1;1;Closed;2
+159;27/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+160;27/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+160;27/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+161;28/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+161;28/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+162;28/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+162;29/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+163;29/11/2020;Blue tree monitor ;1;0;0;1;Closed;2
+163;29/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+164;30/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+164;30/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+165;30/11/2020;Blue tree monitor ;0;1;0;1;Closed;2
+165;01/12/2020;Blue tree monitor ;1;0;0;1;Closed;2
+166;01/12/2020;Blue tree monitor ;0;1;0;1;Closed;2
+166;01/12/2020;Blue tree monitor ;0;1;0;1;Closed;2
+167;02/12/2020;Blue tree monitor ;0;1;0;1;Closed;2
+167;02/12/2020;Blue tree monitor ;0;1;0;1;Closed;2
+168;02/12/2020;Blue tree monitor ;0;1;0;1;Closed;2
+168;03/12/2020;Blue tree monitor ;0;0;1;1;Open;2
+169;03/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+169;03/12/2020;Blue tree monitor ;1;0;0;1;Open;2
+170;04/12/2020;Blue tree monitor ;0;0;1;1;Open;2
+171;04/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+170;04/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+171;05/12/2020;Blue tree monitor ;0;0;1;1;Open;2
+172;05/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+172;06/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+173;06/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+173;06/12/2020;Blue tree monitor ;1;0;0;1;Open;2
+174;07/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+174;07/12/2020;Blue tree monitor ;0;0;1;1;Open;2
+175;07/12/2020;Blue tree monitor ;0;0;1;1;Open;2
+177;08/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+176;08/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+175;08/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+176;08/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+177;09/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+178;09/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+178;10/12/2020;Blue tree monitor ;0;0;1;1;Open;2
+179;10/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+179;11/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+180;11/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+180;11/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+181;12/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+182;12/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+181;12/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+182;13/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+183;13/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+183;13/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+184;14/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+184;14/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+185;14/12/2020;Blue tree monitor ;1;0;0;1;Open;2
+185;15/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+186;15/12/2020;Blue tree monitor ;1;0;0;1;Open;2
+186;16/12/2020;Blue tree monitor ;1;0;0;1;Open;2
+187;16/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+187;16/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+188;17/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+188;17/12/2020;Blue tree monitor ;0;1;0;1;Open;2
+214;13/06/2020;Chinese crocodile lizard;0;1;1;2;Closed;1
+214;13/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+215;13/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+216;14/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+223;14/06/2020;Chinese crocodile lizard;2;0;0;2;Closed;1
+223;14/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+216;14/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+217;14/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+223;14/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+218;14/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+227;15/06/2020;Chinese crocodile lizard;0;1;1;2;Closed;1
+227;15/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+228;15/06/2020;Chinese crocodile lizard;0;2;0;2;Closed;1
+129;06/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+129;06/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+130;06/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+130;07/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+131;07/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+134;07/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+131;08/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+132;08/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+132;08/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+133;09/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+133;09/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+134;10/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+135;10/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+135;11/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+136;11/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+136;11/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+137;12/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+137;12/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+138;12/11/2020;Chinese crocodile lizard;2;0;0;2;Closed;2
+139;13/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+139;13/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+140;14/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+140;14/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+141;14/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+141;15/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+142;15/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+142;15/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+143;16/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+143;16/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+144;16/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+144;17/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+145;17/11/2020;Chinese crocodile lizard;1;1;0;2;Closed;2
+145;17/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+146;18/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+146;18/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+147;18/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+147;19/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+148;19/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+148;19/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+149;20/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+149;20/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+150;20/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+150;20/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+151;21/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+151;21/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+152;21/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+152;22/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+153;22/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+153;22/11/2020;Chinese crocodile lizard;0;0;2;2;Closed;2
+154;23/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+154;23/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+155;23/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+156;24/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+156;24/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+157;24/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+157;25/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+158;25/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+158;25/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+159;26/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+155;26/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+159;27/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+160;27/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+160;27/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+161;28/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+161;28/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+162;28/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+162;29/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+163;29/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+163;29/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+164;30/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+164;30/11/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+165;30/11/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+165;01/12/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+166;01/12/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+166;01/12/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+167;02/12/2020;Chinese crocodile lizard;0;2;0;2;Closed;2
+167;02/12/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+168;02/12/2020;Chinese crocodile lizard;0;1;1;2;Closed;2
+168;03/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+169;03/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+169;03/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+170;04/12/2020;Chinese crocodile lizard;0;0;2;2;Open;2
+171;04/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+170;04/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+171;05/12/2020;Chinese crocodile lizard;0;0;2;2;Open;2
+172;05/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+172;06/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+173;06/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+173;06/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+174;07/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+174;07/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+175;07/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+177;08/12/2020;Chinese crocodile lizard;0;0;2;2;Open;2
+176;08/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+175;08/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+176;08/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+177;09/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+178;09/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+178;10/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+179;10/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+179;11/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+180;11/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+180;11/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+181;12/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+182;12/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+181;12/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+182;13/12/2020;Chinese crocodile lizard;0;0;2;2;Open;2
+183;13/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+183;13/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+184;14/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+184;14/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+185;14/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+185;15/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+186;15/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+187;16/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+186;16/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+187;16/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+188;17/12/2020;Chinese crocodile lizard;0;2;0;2;Open;2
+188;17/12/2020;Chinese crocodile lizard;0;1;1;2;Open;2
+134;07/11/2020;Gidgee skink;5;3;4;12;Closed;2
+132;08/11/2020;Gidgee skink;0;8;4;12;Closed;2
+133;09/11/2020;Gidgee skink;0;9;3;12;Closed;2
+133;09/11/2020;Gidgee skink;0;9;3;12;Closed;2
+134;10/11/2020;Gidgee skink;0;10;2;12;Closed;2
+135;10/11/2020;Gidgee skink;1;7;4;12;Closed;2
+136;11/11/2020;Gidgee skink;0;9;3;12;Closed;2
+136;11/11/2020;Gidgee skink;0;12;0;12;Closed;2
+137;12/11/2020;Gidgee skink;1;9;2;12;Closed;2
+138;12/11/2020;Gidgee skink;7;0;5;12;Closed;2
+139;13/11/2020;Gidgee skink;0;9;3;12;Closed;2
+140;14/11/2020;Gidgee skink;0;10;2;12;Closed;2
+140;14/11/2020;Gidgee skink;0;12;0;12;Closed;2
+141;14/11/2020;Gidgee skink;0;9;3;12;Closed;2
+141;15/11/2020;Gidgee skink;0;10;2;12;Closed;2
+142;15/11/2020;Gidgee skink;1;11;0;12;Closed;2
+142;15/11/2020;Gidgee skink;0;12;0;12;Closed;2
+143;16/11/2020;Gidgee skink;0;11;1;12;Closed;2
+143;16/11/2020;Gidgee skink;2;7;3;12;Closed;2
+144;17/11/2020;Gidgee skink;0;8;4;12;Closed;2
+145;17/11/2020;Gidgee skink;0;11;1;12;Closed;2
+145;17/11/2020;Gidgee skink;0;9;3;12;Closed;2
+146;18/11/2020;Gidgee skink;0;5;7;12;Closed;2
+146;18/11/2020;Gidgee skink;1;9;2;12;Closed;2
+147;18/11/2020;Gidgee skink;0;9;3;12;Closed;2
+147;19/11/2020;Gidgee skink;0;5;7;12;Closed;2
+148;19/11/2020;Gidgee skink;0;11;1;12;Closed;2
+148;19/11/2020;Gidgee skink;0;12;0;12;Closed;2
+149;20/11/2020;Gidgee skink;0;10;2;12;Closed;2
+149;20/11/2020;Gidgee skink;0;11;1;12;Closed;2
+150;20/11/2020;Gidgee skink;0;11;1;12;Closed;2
+150;20/11/2020;Gidgee skink;0;12;0;12;Closed;2
+151;21/11/2020;Gidgee skink;0;4;8;12;Closed;2
+151;21/11/2020;Gidgee skink;0;10;2;12;Closed;2
+152;21/11/2020;Gidgee skink;0;9;3;12;Closed;2
+152;22/11/2020;Gidgee skink;0;9;3;12;Closed;2
+153;22/11/2020;Gidgee skink;0;11;1;12;Closed;2
+153;22/11/2020;Gidgee skink;0;9;3;12;Closed;2
+154;23/11/2020;Gidgee skink;0;5;7;12;Closed;2
+154;23/11/2020;Gidgee skink;0;10;2;12;Closed;2
+155;23/11/2020;Gidgee skink;0;11;1;12;Closed;2
+156;24/11/2020;Gidgee skink;0;3;9;12;Closed;2
+156;24/11/2020;Gidgee skink;0;11;1;12;Closed;2
+157;24/11/2020;Gidgee skink;2;10;0;12;Closed;2
+157;25/11/2020;Gidgee skink;0;9;3;12;Closed;2
+158;25/11/2020;Gidgee skink;0;10;2;12;Closed;2
+158;25/11/2020;Gidgee skink;0;7;5;12;Closed;2
+159;26/11/2020;Gidgee skink;0;8;4;12;Closed;2
+155;26/11/2020;Gidgee skink;0;8;4;12;Closed;2
+159;27/11/2020;Gidgee skink;3;6;3;12;Closed;2
+160;27/11/2020;Gidgee skink;0;12;0;12;Closed;2
+160;27/11/2020;Gidgee skink;0;10;2;12;Closed;2
+161;28/11/2020;Gidgee skink;0;8;4;12;Closed;2
+161;28/11/2020;Gidgee skink;0;12;0;12;Closed;2
+162;28/11/2020;Gidgee skink;0;12;0;12;Closed;2
+162;29/11/2020;Gidgee skink;0;10;2;12;Closed;2
+163;29/11/2020;Gidgee skink;1;11;0;12;Closed;2
+163;29/11/2020;Gidgee skink;0;10;2;12;Closed;2
+164;30/11/2020;Gidgee skink;0;5;7;12;Closed;2
+164;30/11/2020;Gidgee skink;0;11;1;12;Closed;2
+165;30/11/2020;Gidgee skink;0;11;1;12;Closed;2
+165;01/12/2020;Gidgee skink;0;9;3;12;Closed;2
+166;01/12/2020;Gidgee skink;1;11;0;12;Closed;2
+166;01/12/2020;Gidgee skink;0;12;0;12;Closed;2
+167;02/12/2020;Gidgee skink;2;8;2;12;Closed;2
+167;02/12/2020;Gidgee skink;2;8;2;12;Closed;2
+168;02/12/2020;Gidgee skink;0;10;2;12;Closed;2
+168;03/12/2020;Gidgee skink;0;4;8;12;Open;2
+169;03/12/2020;Gidgee skink;0;12;0;12;Open;2
+169;03/12/2020;Gidgee skink;0;9;3;12;Open;2
+170;04/12/2020;Gidgee skink;0;6;6;12;Open;2
+171;04/12/2020;Gidgee skink;0;9;3;12;Open;2
+170;04/12/2020;Gidgee skink;0;10;2;12;Open;2
+171;05/12/2020;Gidgee skink;0;1;11;12;Open;2
+172;05/12/2020;Gidgee skink;0;11;1;12;Open;2
+172;06/12/2020;Gidgee skink;0;7;5;12;Open;2
+173;06/12/2020;Gidgee skink;0;10;2;12;Open;2
+173;06/12/2020;Gidgee skink;1;9;2;12;Open;2
+174;07/12/2020;Gidgee skink;0;3;9;12;Open;2
+174;07/12/2020;Gidgee skink;0;11;1;12;Open;2
+175;07/12/2020;Gidgee skink;0;10;2;12;Open;2
+177;08/12/2020;Gidgee skink;0;3;9;12;Open;2
+176;08/12/2020;Gidgee skink;0;11;1;12;Open;2
+175;08/12/2020;Gidgee skink;0;3;9;12;Open;2
+176;08/12/2020;Gidgee skink;0;12;0;12;Open;2
+177;09/12/2020;Gidgee skink;2;8;2;12;Open;2
+178;09/12/2020;Gidgee skink;0;11;1;12;Open;2
+178;10/12/2020;Gidgee skink;1;4;7;12;Open;2
+179;10/12/2020;Gidgee skink;1;9;2;12;Open;2
+179;11/12/2020;Gidgee skink;1;3;8;12;Open;2
+180;11/12/2020;Gidgee skink;1;9;2;12;Open;2
+180;11/12/2020;Gidgee skink;1;11;0;12;Open;2
+181;12/12/2020;Gidgee skink;0;8;4;12;Open;2
+182;12/12/2020;Gidgee skink;0;11;1;12;Open;2
+181;12/12/2020;Gidgee skink;1;10;1;12;Open;2
+182;13/12/2020;Gidgee skink;0;3;9;12;Open;2
+183;13/12/2020;Gidgee skink;0;12;0;12;Open;2
+183;13/12/2020;Gidgee skink;0;10;2;12;Open;2
+184;14/12/2020;Gidgee skink;0;7;5;12;Open;2
+184;14/12/2020;Gidgee skink;0;8;4;12;Open;2
+185;14/12/2020;Gidgee skink;0;9;3;12;Open;2
+185;15/12/2020;Gidgee skink;0;11;1;12;Open;2
+186;15/12/2020;Gidgee skink;0;10;2;12;Open;2
+187;16/12/2020;Gidgee skink;4;6;2;12;Open;2
+186;16/12/2020;Gidgee skink;0;9;3;12;Open;2
+187;16/12/2020;Gidgee skink;0;9;3;12;Open;2
+188;17/12/2020;Gidgee skink;0;7;5;12;Open;2
+188;17/12/2020;Gidgee skink;2;9;1;12;Open;2
+212;13/06/2020;Jungle carpet python;0;2;0;2;Closed;1
+212;13/06/2020;Jungle carpet python;0;2;0;2;Closed;1
+212;13/06/2020;Jungle carpet python;0;2;0;2;Closed;1
+221;14/06/2020;Jungle carpet python;0;2;0;2;Closed;1
+221;14/06/2020;Jungle carpet python;0;2;0;2;Closed;1
+221;14/06/2020;Jungle carpet python;0;2;0;2;Closed;1
+224;15/06/2020;Jungle carpet python;0;0;2;2;Closed;1
+225;15/06/2020;Jungle carpet python;0;0;2;2;Closed;1
+129;06/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+129;06/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+130;06/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+130;07/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+131;07/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+134;07/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+131;08/11/2020;Jungle carpet python;1;1;0;2;Closed;2
+132;08/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+132;08/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+133;09/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+133;09/11/2020;Jungle carpet python;1;0;1;2;Closed;2
+134;10/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+135;11/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+136;11/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+136;11/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+137;12/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+137;12/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+138;12/11/2020;Jungle carpet python;2;0;0;2;Closed;2
+139;13/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+139;13/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+140;14/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+140;14/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+141;15/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+142;15/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+143;16/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+143;16/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+144;16/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+144;17/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+145;17/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+145;17/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+146;18/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+146;18/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+147;18/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+147;19/11/2020;Jungle carpet python;0;0;2;2;Closed;2
+148;19/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+148;19/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+149;20/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+149;20/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+150;20/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+150;20/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+151;21/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+151;21/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+152;21/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+152;22/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+153;22/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+153;22/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+154;23/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+154;23/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+155;23/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+156;24/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+156;24/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+157;24/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+157;25/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+158;25/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+158;25/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+159;26/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+155;26/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+159;27/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+160;27/11/2020;Jungle carpet python;0;1;1;2;Closed;2
+160;27/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+161;28/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+161;28/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+162;28/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+162;29/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+163;29/11/2020;Jungle carpet python;0;0;2;2;Closed;2
+163;29/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+164;30/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+164;30/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+165;30/11/2020;Jungle carpet python;0;2;0;2;Closed;2
+165;01/12/2020;Jungle carpet python;0;2;0;2;Closed;2
+166;01/12/2020;Jungle carpet python;0;2;0;2;Closed;2
+166;01/12/2020;Jungle carpet python;0;2;0;2;Closed;2
+167;02/12/2020;Jungle carpet python;0;2;0;2;Closed;2
+167;02/12/2020;Jungle carpet python;0;2;0;2;Closed;2
+168;02/12/2020;Jungle carpet python;0;2;0;2;Closed;2
+168;03/12/2020;Jungle carpet python;1;1;0;2;Open;2
+169;03/12/2020;Jungle carpet python;0;1;1;2;Open;2
+169;03/12/2020;Jungle carpet python;0;2;0;2;Open;2
+170;04/12/2020;Jungle carpet python;0;2;0;2;Open;2
+171;04/12/2020;Jungle carpet python;0;2;0;2;Open;2
+170;04/12/2020;Jungle carpet python;0;2;0;2;Open;2
+171;05/12/2020;Jungle carpet python;0;1;1;2;Open;2
+172;05/12/2020;Jungle carpet python;0;2;0;2;Open;2
+172;06/12/2020;Jungle carpet python;0;2;0;2;Open;2
+173;06/12/2020;Jungle carpet python;0;2;0;2;Open;2
+174;07/12/2020;Jungle carpet python;0;1;1;2;Open;2
+174;07/12/2020;Jungle carpet python;0;2;0;2;Open;2
+175;07/12/2020;Jungle carpet python;2;0;0;2;Open;2
+177;08/12/2020;Jungle carpet python;0;2;0;2;Open;2
+176;08/12/2020;Jungle carpet python;0;2;0;2;Open;2
+175;08/12/2020;Jungle carpet python;0;2;0;2;Open;2
+176;08/12/2020;Jungle carpet python;0;2;0;2;Open;2
+177;09/12/2020;Jungle carpet python;0;2;0;2;Open;2
+178;09/12/2020;Jungle carpet python;0;2;0;2;Open;2
+178;10/12/2020;Jungle carpet python;0;1;1;2;Open;2
+179;10/12/2020;Jungle carpet python;0;2;0;2;Open;2
+179;11/12/2020;Jungle carpet python;0;2;0;2;Open;2
+180;11/12/2020;Jungle carpet python;0;2;0;2;Open;2
+180;11/12/2020;Jungle carpet python;0;2;0;2;Open;2
+181;12/12/2020;Jungle carpet python;0;2;0;2;Open;2
+182;12/12/2020;Jungle carpet python;0;2;0;2;Open;2
+181;12/12/2020;Jungle carpet python;0;2;0;2;Open;2
+182;13/12/2020;Jungle carpet python;0;2;0;2;Open;2
+183;13/12/2020;Jungle carpet python;0;1;1;2;Open;2
+183;13/12/2020;Jungle carpet python;0;2;0;2;Open;2
+184;14/12/2020;Jungle carpet python;0;1;1;2;Open;2
+184;14/12/2020;Jungle carpet python;0;2;0;2;Open;2
+185;14/12/2020;Jungle carpet python;0;1;1;2;Open;2
+185;15/12/2020;Jungle carpet python;0;2;0;2;Open;2
+186;15/12/2020;Jungle carpet python;0;2;0;2;Open;2
+186;16/12/2020;Jungle carpet python;1;1;0;2;Open;2
+187;16/12/2020;Jungle carpet python;0;2;0;2;Open;2
+187;16/12/2020;Jungle carpet python;0;1;1;2;Open;2
+188;17/12/2020;Jungle carpet python;0;2;0;2;Open;2
+188;17/12/2020;Jungle carpet python;0;2;0;2;Open;2
+211;13/06/2020;King cobra;0;1;0;1;Closed;1
+211;13/06/2020;King cobra;0;1;0;1;Closed;1
+211;13/06/2020;King cobra;0;1;0;1;Closed;1
+220;14/06/2020;King cobra;0;0;1;1;Closed;1
+220;14/06/2020;King cobra;0;0;1;1;Closed;1
+220;14/06/2020;King cobra;1;0;0;1;Closed;1
+220;14/06/2020;King cobra;1;0;0;1;Closed;1
+224;15/06/2020;King cobra;0;1;0;1;Closed;1
+225;15/06/2020;King cobra;0;1;0;1;Closed;1
+129;06/11/2020;King cobra;0;1;0;1;Closed;2
+129;06/11/2020;King cobra;0;1;0;1;Closed;2
+130;06/11/2020;King cobra;0;1;0;1;Closed;2
+130;07/11/2020;King cobra;0;1;0;1;Closed;2
+131;07/11/2020;King cobra;0;1;0;1;Closed;2
+134;07/11/2020;King cobra;0;1;0;1;Closed;2
+131;08/11/2020;King cobra;0;1;0;1;Closed;2
+132;08/11/2020;King cobra;0;1;0;1;Closed;2
+132;08/11/2020;King cobra;0;1;0;1;Closed;2
+133;09/11/2020;King cobra;0;1;0;1;Closed;2
+133;09/11/2020;King cobra;0;1;0;1;Closed;2
+134;10/11/2020;King cobra;0;1;0;1;Closed;2
+135;10/11/2020;King cobra;0;1;0;1;Closed;2
+135;11/11/2020;King cobra;0;1;0;1;Closed;2
+136;11/11/2020;King cobra;0;0;1;1;Closed;2
+136;11/11/2020;King cobra;1;0;0;1;Closed;2
+137;12/11/2020;King cobra;0;1;0;1;Closed;2
+137;12/11/2020;King cobra;0;1;0;1;Closed;2
+138;12/11/2020;King cobra;1;0;0;1;Closed;2
+139;13/11/2020;King cobra;0;1;0;1;Closed;2
+139;13/11/2020;King cobra;0;1;0;1;Closed;2
+140;14/11/2020;King cobra;0;1;0;1;Closed;2
+140;14/11/2020;King cobra;0;1;0;1;Closed;2
+141;14/11/2020;King cobra;0;1;0;1;Closed;2
+141;15/11/2020;King cobra;0;1;0;1;Closed;2
+142;15/11/2020;King cobra;0;1;0;1;Closed;2
+142;15/11/2020;King cobra;0;1;0;1;Closed;2
+143;16/11/2020;King cobra;0;1;0;1;Closed;2
+143;16/11/2020;King cobra;0;1;0;1;Closed;2
+144;16/11/2020;King cobra;0;1;0;1;Closed;2
+144;17/11/2020;King cobra;1;0;0;1;Closed;2
+145;17/11/2020;King cobra;0;1;0;1;Closed;2
+145;17/11/2020;King cobra;0;1;0;1;Closed;2
+146;18/11/2020;King cobra;0;1;0;1;Closed;2
+146;18/11/2020;King cobra;0;1;0;1;Closed;2
+147;18/11/2020;King cobra;0;1;0;1;Closed;2
+147;19/11/2020;King cobra;1;0;0;1;Closed;2
+148;19/11/2020;King cobra;0;1;0;1;Closed;2
+148;19/11/2020;King cobra;0;1;0;1;Closed;2
+149;20/11/2020;King cobra;0;1;0;1;Closed;2
+149;20/11/2020;King cobra;0;1;0;1;Closed;2
+150;20/11/2020;King cobra;0;1;0;1;Closed;2
+150;20/11/2020;King cobra;0;1;0;1;Closed;2
+151;21/11/2020;King cobra;0;1;0;1;Closed;2
+151;21/11/2020;King cobra;0;1;0;1;Closed;2
+152;21/11/2020;King cobra;0;1;0;1;Closed;2
+152;22/11/2020;King cobra;0;1;0;1;Closed;2
+153;22/11/2020;King cobra;0;1;0;1;Closed;2
+153;22/11/2020;King cobra;0;1;0;1;Closed;2
+154;23/11/2020;King cobra;0;1;0;1;Closed;2
+154;23/11/2020;King cobra;0;1;0;1;Closed;2
+155;23/11/2020;King cobra;0;1;0;1;Closed;2
+156;24/11/2020;King cobra;0;1;0;1;Closed;2
+156;24/11/2020;King cobra;0;1;0;1;Closed;2
+157;24/11/2020;King cobra;0;0;1;1;Closed;2
+157;25/11/2020;King cobra;0;1;0;1;Closed;2
+158;25/11/2020;King cobra;0;0;1;1;Closed;2
+158;25/11/2020;King cobra;0;1;0;1;Closed;2
+159;26/11/2020;King cobra;0;1;0;1;Closed;2
+155;26/11/2020;King cobra;0;1;0;1;Closed;2
+159;27/11/2020;King cobra;0;1;0;1;Closed;2
+160;27/11/2020;King cobra;0;1;0;1;Closed;2
+160;27/11/2020;King cobra;0;1;0;1;Closed;2
+161;28/11/2020;King cobra;0;1;0;1;Closed;2
+161;28/11/2020;King cobra;0;1;0;1;Closed;2
+162;28/11/2020;King cobra;0;1;0;1;Closed;2
+162;29/11/2020;King cobra;0;1;0;1;Closed;2
+163;29/11/2020;King cobra;0;1;0;1;Closed;2
+163;29/11/2020;King cobra;0;1;0;1;Closed;2
+164;30/11/2020;King cobra;0;1;0;1;Closed;2
+164;30/11/2020;King cobra;0;1;0;1;Closed;2
+165;30/11/2020;King cobra;0;1;0;1;Closed;2
+165;01/12/2020;King cobra;0;1;0;1;Closed;2
+166;01/12/2020;King cobra;0;1;0;1;Closed;2
+166;01/12/2020;King cobra;0;1;0;1;Closed;2
+167;02/12/2020;King cobra;0;1;0;1;Closed;2
+167;02/12/2020;King cobra;0;1;0;1;Closed;2
+168;02/12/2020;King cobra;0;1;0;1;Closed;2
+168;03/12/2020;King cobra;0;1;0;1;Open;2
+169;03/12/2020;King cobra;0;1;0;1;Open;2
+169;03/12/2020;King cobra;0;1;0;1;Open;2
+170;04/12/2020;King cobra;0;1;0;1;Open;2
+171;04/12/2020;King cobra;0;1;0;1;Open;2
+170;04/12/2020;King cobra;0;1;0;1;Open;2
+171;05/12/2020;King cobra;0;1;0;1;Open;2
+172;05/12/2020;King cobra;0;1;0;1;Open;2
+172;06/12/2020;King cobra;0;1;0;1;Open;2
+173;06/12/2020;King cobra;0;1;0;1;Open;2
+173;06/12/2020;King cobra;0;1;0;1;Open;2
+174;07/12/2020;King cobra;0;1;0;1;Open;2
+174;07/12/2020;King cobra;0;1;0;1;Open;2
+175;07/12/2020;King cobra;0;1;0;1;Open;2
+177;08/12/2020;King cobra;0;1;0;1;Open;2
+176;08/12/2020;King cobra;0;1;0;1;Open;2
+175;08/12/2020;King cobra;0;1;0;1;Open;2
+176;08/12/2020;King cobra;0;1;0;1;Open;2
+177;09/12/2020;King cobra;0;1;0;1;Open;2
+178;09/12/2020;King cobra;0;1;0;1;Open;2
+178;10/12/2020;King cobra;0;1;0;1;Open;2
+179;10/12/2020;King cobra;0;1;0;1;Open;2
+179;11/12/2020;King cobra;0;1;0;1;Open;2
+180;11/12/2020;King cobra;0;1;0;1;Open;2
+180;11/12/2020;King cobra;0;1;0;1;Open;2
+181;12/12/2020;King cobra;1;0;0;1;Open;2
+182;12/12/2020;King cobra;0;1;0;1;Open;2
+181;12/12/2020;King cobra;0;1;0;1;Open;2
+182;13/12/2020;King cobra;0;1;0;1;Open;2
+183;13/12/2020;King cobra;0;1;0;1;Open;2
+183;13/12/2020;King cobra;0;1;0;1;Open;2
+184;14/12/2020;King cobra;0;1;0;1;Open;2
+184;14/12/2020;King cobra;0;1;0;1;Open;2
+185;14/12/2020;King cobra;0;1;0;1;Open;2
+185;15/12/2020;King cobra;0;1;0;1;Open;2
+186;15/12/2020;King cobra;0;1;0;1;Open;2
+187;16/12/2020;King cobra;1;0;0;1;Open;2
+186;16/12/2020;King cobra;0;1;0;1;Open;2
+187;16/12/2020;King cobra;0;1;0;1;Open;2
+188;17/12/2020;King cobra;0;1;0;1;Open;2
+188;17/12/2020;King cobra;0;0;1;1;Open;2
+212;13/06/2020;Milksnake;0;0;1;1;Closed;1
+212;13/06/2020;Milksnake;0;0;1;1;Closed;1
+221;14/06/2020;Milksnake;0;0;1;1;Closed;1
+221;14/06/2020;Milksnake;0;0;1;1;Closed;1
+221;14/06/2020;Milksnake;0;0;1;1;Closed;1
+224;15/06/2020;Milksnake;0;0;1;1;Closed;1
+225;15/06/2020;Milksnake;0;0;1;1;Closed;1
+129;06/11/2020;Milksnake;0;0;1;1;Closed;2
+129;06/11/2020;Milksnake;0;1;0;1;Closed;2
+130;06/11/2020;Milksnake;1;0;0;1;Closed;2
+130;07/11/2020;Milksnake;1;0;0;1;Closed;2
+131;07/11/2020;Milksnake;0;1;0;1;Closed;2
+134;07/11/2020;Milksnake;0;1;0;1;Closed;2
+131;08/11/2020;Milksnake;0;1;0;1;Closed;2
+132;08/11/2020;Milksnake;1;0;0;1;Closed;2
+132;08/11/2020;Milksnake;0;0;1;1;Closed;2
+133;09/11/2020;Milksnake;1;0;0;1;Closed;2
+133;09/11/2020;Milksnake;1;0;0;1;Closed;2
+134;10/11/2020;Milksnake;1;0;0;1;Closed;2
+135;11/11/2020;Milksnake;0;0;1;1;Closed;2
+136;11/11/2020;Milksnake;0;1;0;1;Closed;2
+136;11/11/2020;Milksnake;0;1;0;1;Closed;2
+137;12/11/2020;Milksnake;0;0;1;1;Closed;2
+137;12/11/2020;Milksnake;0;1;0;1;Closed;2
+138;12/11/2020;Milksnake;0;0;1;1;Closed;2
+139;13/11/2020;Milksnake;0;0;1;1;Closed;2
+139;13/11/2020;Milksnake;0;0;1;1;Closed;2
+140;14/11/2020;Milksnake;0;0;1;1;Closed;2
+140;14/11/2020;Milksnake;0;0;1;1;Closed;2
+141;15/11/2020;Milksnake;0;0;1;1;Closed;2
+142;15/11/2020;Milksnake;0;0;1;1;Closed;2
+142;15/11/2020;Milksnake;0;0;1;1;Closed;2
+143;16/11/2020;Milksnake;0;0;1;1;Closed;2
+143;16/11/2020;Milksnake;0;0;1;1;Closed;2
+144;16/11/2020;Milksnake;0;1;0;1;Closed;2
+144;17/11/2020;Milksnake;0;0;1;1;Closed;2
+145;17/11/2020;Milksnake;0;1;0;1;Closed;2
+145;17/11/2020;Milksnake;0;1;0;1;Closed;2
+146;18/11/2020;Milksnake;0;0;1;1;Closed;2
+146;18/11/2020;Milksnake;0;0;1;1;Closed;2
+147;18/11/2020;Milksnake;0;0;1;1;Closed;2
+147;19/11/2020;Milksnake;0;0;1;1;Closed;2
+148;19/11/2020;Milksnake;0;0;1;1;Closed;2
+148;19/11/2020;Milksnake;0;0;1;1;Closed;2
+149;20/11/2020;Milksnake;0;1;0;1;Closed;2
+149;20/11/2020;Milksnake;0;0;1;1;Closed;2
+150;20/11/2020;Milksnake;0;0;1;1;Closed;2
+150;20/11/2020;Milksnake;0;0;1;1;Closed;2
+151;21/11/2020;Milksnake;0;0;1;1;Closed;2
+151;21/11/2020;Milksnake;0;0;1;1;Closed;2
+152;21/11/2020;Milksnake;0;0;1;1;Closed;2
+152;22/11/2020;Milksnake;0;0;1;1;Closed;2
+153;22/11/2020;Milksnake;0;0;1;1;Closed;2
+153;22/11/2020;Milksnake;0;0;1;1;Closed;2
+154;23/11/2020;Milksnake;0;0;1;1;Closed;2
+154;23/11/2020;Milksnake;0;0;1;1;Closed;2
+155;23/11/2020;Milksnake;0;0;1;1;Closed;2
+156;24/11/2020;Milksnake;0;0;1;1;Closed;2
+156;24/11/2020;Milksnake;0;0;1;1;Closed;2
+157;24/11/2020;Milksnake;0;0;1;1;Closed;2
+157;25/11/2020;Milksnake;0;0;1;1;Closed;2
+158;25/11/2020;Milksnake;0;0;1;1;Closed;2
+158;25/11/2020;Milksnake;0;0;1;1;Closed;2
+159;26/11/2020;Milksnake;0;0;1;1;Closed;2
+155;26/11/2020;Milksnake;0;0;1;1;Closed;2
+159;27/11/2020;Milksnake;0;0;1;1;Closed;2
+160;27/11/2020;Milksnake;0;0;1;1;Closed;2
+160;27/11/2020;Milksnake;0;0;1;1;Closed;2
+161;28/11/2020;Milksnake;0;0;1;1;Closed;2
+161;28/11/2020;Milksnake;0;0;1;1;Closed;2
+162;28/11/2020;Milksnake;0;1;0;1;Closed;2
+162;29/11/2020;Milksnake;0;0;1;1;Closed;2
+163;29/11/2020;Milksnake;0;0;1;1;Closed;2
+163;29/11/2020;Milksnake;0;0;1;1;Closed;2
+164;30/11/2020;Milksnake;0;0;1;1;Closed;2
+164;30/11/2020;Milksnake;0;0;1;1;Closed;2
+165;30/11/2020;Milksnake;0;0;1;1;Closed;2
+165;01/12/2020;Milksnake;0;0;1;1;Closed;2
+166;01/12/2020;Milksnake;0;0;1;1;Closed;2
+166;01/12/2020;Milksnake;0;0;1;1;Closed;2
+167;02/12/2020;Milksnake;0;0;1;1;Closed;2
+167;02/12/2020;Milksnake;0;0;1;1;Closed;2
+168;02/12/2020;Milksnake;0;0;1;1;Closed;2
+168;03/12/2020;Milksnake;0;0;1;1;Open;2
+169;03/12/2020;Milksnake;0;0;1;1;Open;2
+169;03/12/2020;Milksnake;0;0;1;1;Open;2
+170;04/12/2020;Milksnake;0;0;1;1;Open;2
+171;04/12/2020;Milksnake;0;0;1;1;Open;2
+170;04/12/2020;Milksnake;0;0;1;1;Open;2
+171;05/12/2020;Milksnake;0;0;1;1;Open;2
+172;05/12/2020;Milksnake;0;0;1;1;Open;2
+172;06/12/2020;Milksnake;0;0;1;1;Open;2
+173;06/12/2020;Milksnake;0;0;1;1;Open;2
+174;07/12/2020;Milksnake;0;0;1;1;Open;2
+174;07/12/2020;Milksnake;0;0;1;1;Open;2
+175;07/12/2020;Milksnake;0;1;0;1;Open;2
+177;08/12/2020;Milksnake;0;0;1;1;Open;2
+176;08/12/2020;Milksnake;0;0;1;1;Open;2
+175;08/12/2020;Milksnake;0;0;1;1;Open;2
+176;08/12/2020;Milksnake;0;0;1;1;Open;2
+177;09/12/2020;Milksnake;0;0;1;1;Open;2
+178;09/12/2020;Milksnake;0;0;1;1;Open;2
+178;10/12/2020;Milksnake;0;1;0;1;Open;2
+179;10/12/2020;Milksnake;0;0;1;1;Open;2
+180;11/12/2020;Milksnake;1;0;0;1;Open;2
+180;11/12/2020;Milksnake;0;1;0;1;Open;2
+181;12/12/2020;Milksnake;0;0;1;1;Open;2
+182;12/12/2020;Milksnake;1;0;0;1;Open;2
+181;12/12/2020;Milksnake;0;0;1;1;Open;2
+182;13/12/2020;Milksnake;0;0;1;1;Open;2
+183;13/12/2020;Milksnake;0;0;1;1;Open;2
+183;13/12/2020;Milksnake;1;0;0;1;Open;2
+184;14/12/2020;Milksnake;0;0;1;1;Open;2
+184;14/12/2020;Milksnake;0;0;1;1;Open;2
+185;14/12/2020;Milksnake;0;0;1;1;Open;2
+185;15/12/2020;Milksnake;0;1;0;1;Open;2
+186;15/12/2020;Milksnake;0;0;1;1;Open;2
+187;16/12/2020;Milksnake;1;0;0;1;Open;2
+186;16/12/2020;Milksnake;0;0;1;1;Open;2
+187;16/12/2020;Milksnake;0;1;0;1;Open;2
+188;17/12/2020;Milksnake;0;1;0;1;Open;2
+188;17/12/2020;Milksnake;0;1;0;1;Open;2
+211;13/06/2020;Reticulated python;1;0;0;1;Closed;1
+211;13/06/2020;Reticulated python;0;1;0;1;Closed;1
+211;13/06/2020;Reticulated python;0;1;0;1;Closed;1
+220;14/06/2020;Reticulated python;0;0;1;1;Closed;1
+220;14/06/2020;Reticulated python;0;0;1;1;Closed;1
+220;14/06/2020;Reticulated python;0;0;1;1;Closed;1
+220;14/06/2020;Reticulated python;0;1;0;1;Closed;1
+224;15/06/2020;Reticulated python;0;0;1;1;Closed;1
+225;15/06/2020;Reticulated python;0;0;1;1;Closed;1
+129;06/11/2020;Reticulated python;0;1;0;1;Closed;2
+129;06/11/2020;Reticulated python;0;0;1;1;Closed;2
+130;06/11/2020;Reticulated python;0;0;1;1;Closed;2
+130;07/11/2020;Reticulated python;0;1;0;1;Closed;2
+131;07/11/2020;Reticulated python;0;1;0;1;Closed;2
+134;07/11/2020;Reticulated python;0;0;1;1;Closed;2
+131;08/11/2020;Reticulated python;0;1;0;1;Closed;2
+132;08/11/2020;Reticulated python;0;1;0;1;Closed;2
+132;08/11/2020;Reticulated python;0;1;0;1;Closed;2
+133;09/11/2020;Reticulated python;0;1;0;1;Closed;2
+133;09/11/2020;Reticulated python;0;0;1;1;Closed;2
+134;10/11/2020;Reticulated python;0;0;1;1;Closed;2
+135;10/11/2020;Reticulated python;0;0;1;1;Closed;2
+135;11/11/2020;Reticulated python;0;0;1;1;Closed;2
+136;11/11/2020;Reticulated python;0;0;1;1;Closed;2
+136;11/11/2020;Reticulated python;0;0;1;1;Closed;2
+137;12/11/2020;Reticulated python;0;0;1;1;Closed;2
+137;12/11/2020;Reticulated python;0;0;1;1;Closed;2
+138;12/11/2020;Reticulated python;1;0;0;1;Closed;2
+139;13/11/2020;Reticulated python;0;1;0;1;Closed;2
+139;13/11/2020;Reticulated python;0;0;1;1;Closed;2
+140;14/11/2020;Reticulated python;0;0;1;1;Closed;2
+140;14/11/2020;Reticulated python;0;0;1;1;Closed;2
+141;14/11/2020;Reticulated python;0;0;1;1;Closed;2
+141;15/11/2020;Reticulated python;0;1;0;1;Closed;2
+142;15/11/2020;Reticulated python;0;1;0;1;Closed;2
+142;15/11/2020;Reticulated python;1;0;0;1;Closed;2
+143;16/11/2020;Reticulated python;0;1;0;1;Closed;2
+143;16/11/2020;Reticulated python;0;1;0;1;Closed;2
+144;16/11/2020;Reticulated python;0;1;0;1;Closed;2
+144;17/11/2020;Reticulated python;0;1;0;1;Closed;2
+145;17/11/2020;Reticulated python;0;1;0;1;Closed;2
+145;17/11/2020;Reticulated python;0;1;0;1;Closed;2
+146;18/11/2020;Reticulated python;0;0;1;1;Closed;2
+146;18/11/2020;Reticulated python;0;0;1;1;Closed;2
+147;18/11/2020;Reticulated python;0;0;1;1;Closed;2
+147;19/11/2020;Reticulated python;0;0;1;1;Closed;2
+148;19/11/2020;Reticulated python;0;0;1;1;Closed;2
+148;19/11/2020;Reticulated python;0;0;1;1;Closed;2
+149;20/11/2020;Reticulated python;0;0;1;1;Closed;2
+149;20/11/2020;Reticulated python;0;0;1;1;Closed;2
+150;20/11/2020;Reticulated python;0;0;1;1;Closed;2
+150;20/11/2020;Reticulated python;0;0;1;1;Closed;2
+151;21/11/2020;Reticulated python;0;0;1;1;Closed;2
+151;21/11/2020;Reticulated python;0;0;1;1;Closed;2
+152;21/11/2020;Reticulated python;0;0;1;1;Closed;2
+152;22/11/2020;Reticulated python;0;0;1;1;Closed;2
+153;22/11/2020;Reticulated python;0;0;1;1;Closed;2
+153;22/11/2020;Reticulated python;0;0;1;1;Closed;2
+154;23/11/2020;Reticulated python;0;0;1;1;Closed;2
+154;23/11/2020;Reticulated python;0;0;1;1;Closed;2
+155;23/11/2020;Reticulated python;0;0;1;1;Closed;2
+156;24/11/2020;Reticulated python;0;0;1;1;Closed;2
+156;24/11/2020;Reticulated python;0;0;1;1;Closed;2
+157;24/11/2020;Reticulated python;0;0;1;1;Closed;2
+157;25/11/2020;Reticulated python;0;0;1;1;Closed;2
+158;25/11/2020;Reticulated python;0;0;1;1;Closed;2
+158;25/11/2020;Reticulated python;0;0;1;1;Closed;2
+159;26/11/2020;Reticulated python;0;0;1;1;Closed;2
+155;26/11/2020;Reticulated python;0;0;1;1;Closed;2
+159;27/11/2020;Reticulated python;0;0;1;1;Closed;2
+160;27/11/2020;Reticulated python;0;1;0;1;Closed;2
+160;27/11/2020;Reticulated python;0;1;0;1;Closed;2
+161;28/11/2020;Reticulated python;0;0;1;1;Closed;2
+161;28/11/2020;Reticulated python;0;0;1;1;Closed;2
+162;28/11/2020;Reticulated python;0;0;1;1;Closed;2
+162;29/11/2020;Reticulated python;0;0;1;1;Closed;2
+163;29/11/2020;Reticulated python;0;0;1;1;Closed;2
+163;29/11/2020;Reticulated python;0;0;1;1;Closed;2
+164;30/11/2020;Reticulated python;0;0;1;1;Closed;2
+164;30/11/2020;Reticulated python;0;1;0;1;Closed;2
+165;30/11/2020;Reticulated python;0;1;0;1;Closed;2
+165;01/12/2020;Reticulated python;0;1;0;1;Closed;2
+166;01/12/2020;Reticulated python;0;0;1;1;Closed;2
+166;01/12/2020;Reticulated python;0;0;1;1;Closed;2
+167;02/12/2020;Reticulated python;0;0;1;1;Closed;2
+167;02/12/2020;Reticulated python;0;0;1;1;Closed;2
+168;02/12/2020;Reticulated python;0;1;0;1;Closed;2
+168;03/12/2020;Reticulated python;0;0;1;1;Open;2
+169;03/12/2020;Reticulated python;0;0;1;1;Open;2
+169;03/12/2020;Reticulated python;0;0;1;1;Open;2
+170;04/12/2020;Reticulated python;0;0;1;1;Open;2
+171;04/12/2020;Reticulated python;0;0;1;1;Open;2
+170;04/12/2020;Reticulated python;0;1;0;1;Open;2
+171;05/12/2020;Reticulated python;0;0;1;1;Open;2
+172;05/12/2020;Reticulated python;0;0;1;1;Open;2
+172;06/12/2020;Reticulated python;0;0;1;1;Open;2
+173;06/12/2020;Reticulated python;0;1;0;1;Open;2
+173;06/12/2020;Reticulated python;0;1;0;1;Open;2
+174;07/12/2020;Reticulated python;0;0;1;1;Open;2
+174;07/12/2020;Reticulated python;0;0;1;1;Open;2
+175;07/12/2020;Reticulated python;0;1;0;1;Open;2
+177;08/12/2020;Reticulated python;0;0;1;1;Open;2
+176;08/12/2020;Reticulated python;0;1;0;1;Open;2
+175;08/12/2020;Reticulated python;0;0;1;1;Open;2
+176;08/12/2020;Reticulated python;0;0;1;1;Open;2
+177;09/12/2020;Reticulated python;0;0;1;1;Open;2
+178;09/12/2020;Reticulated python;0;0;1;1;Open;2
+178;10/12/2020;Reticulated python;0;0;1;1;Open;2
+179;10/12/2020;Reticulated python;0;0;1;1;Open;2
+179;11/12/2020;Reticulated python;0;0;1;1;Open;2
+180;11/12/2020;Reticulated python;0;0;1;1;Open;2
+180;11/12/2020;Reticulated python;0;0;1;1;Open;2
+181;12/12/2020;Reticulated python;0;0;1;1;Open;2
+182;12/12/2020;Reticulated python;0;0;1;1;Open;2
+181;12/12/2020;Reticulated python;0;0;1;1;Open;2
+182;13/12/2020;Reticulated python;0;0;1;1;Open;2
+183;13/12/2020;Reticulated python;0;0;1;1;Open;2
+183;13/12/2020;Reticulated python;0;0;1;1;Open;2
+184;14/12/2020;Reticulated python;0;1;0;1;Open;2
+184;14/12/2020;Reticulated python;0;1;0;1;Open;2
+185;14/12/2020;Reticulated python;0;1;0;1;Open;2
+185;15/12/2020;Reticulated python;0;0;1;1;Open;2
+186;15/12/2020;Reticulated python;0;0;1;1;Open;2
+186;16/12/2020;Reticulated python;1;0;0;1;Open;2
+187;16/12/2020;Reticulated python;0;0;1;1;Open;2
+187;16/12/2020;Reticulated python;0;1;0;1;Open;2
+188;17/12/2020;Reticulated python;0;0;1;1;Open;2
+188;17/12/2020;Reticulated python;0;1;0;1;Open;2
+214;13/06/2020;Snake-neck turtle;0;1;0;1;Closed;1
+214;13/06/2020;Snake-neck turtle;0;1;0;1;Closed;1
+215;13/06/2020;Snake-neck turtle;1;0;0;1;Closed;1
+216;14/06/2020;Snake-neck turtle;1;0;0;1;Closed;1
+217;14/06/2020;Snake-neck turtle;1;0;0;1;Closed;1
+218;14/06/2020;Snake-neck turtle;0;1;0;1;Closed;1
+218;14/06/2020;Snake-neck turtle;1;0;0;1;Closed;1
+227;15/06/2020;Snake-neck turtle;0;1;0;1;Closed;1
+227;15/06/2020;Snake-neck turtle;1;0;0;1;Closed;1
+228;15/06/2020;Snake-neck turtle;0;1;0;1;Closed;1
+129;06/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+129;06/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+130;06/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+130;07/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+131;07/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+134;07/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+131;08/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+132;08/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+132;08/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+133;09/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+133;09/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+134;10/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+135;10/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+135;11/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+136;11/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+136;11/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+137;12/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+137;12/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+138;12/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+139;13/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+139;13/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+140;14/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+140;14/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+141;14/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+141;15/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+142;15/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+142;15/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+143;16/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+143;16/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+144;16/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+144;17/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+145;17/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+145;17/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+146;18/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+146;18/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+147;18/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+147;19/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+148;19/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+148;19/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+149;20/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+149;20/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+150;20/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+150;20/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+151;21/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+151;21/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+152;21/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+152;22/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+153;22/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+153;22/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+154;23/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+154;23/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+155;23/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+156;24/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+156;24/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+157;24/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+157;25/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+158;25/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+158;25/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+159;26/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+155;26/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+159;27/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+160;27/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+160;27/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+161;28/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+161;28/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+162;28/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+162;29/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+163;29/11/2020;Snake-neck turtle;1;0;0;1;Closed;2
+163;29/11/2020;Snake-neck turtle;0;1;0;1;Closed;2
+164;30/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+164;30/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+165;30/11/2020;Snake-neck turtle;0;0;1;1;Closed;2
+165;01/12/2020;Snake-neck turtle;1;0;0;1;Closed;2
+166;01/12/2020;Snake-neck turtle;1;0;0;1;Closed;2
+166;01/12/2020;Snake-neck turtle;0;1;0;1;Closed;2
+167;02/12/2020;Snake-neck turtle;1;0;0;1;Closed;2
+167;02/12/2020;Snake-neck turtle;0;0;1;1;Closed;2
+168;02/12/2020;Snake-neck turtle;1;0;0;1;Closed;2
+168;03/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+169;03/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+169;03/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+170;04/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+171;04/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+170;04/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+171;05/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+172;05/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+172;06/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+173;06/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+173;06/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+174;07/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+174;07/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+175;07/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+177;08/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+176;08/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+175;08/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+176;08/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+177;09/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+178;09/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+178;10/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+179;10/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+179;11/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+180;11/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+180;11/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+181;12/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+182;12/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+181;12/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+182;13/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+183;13/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+183;13/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+184;14/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+184;14/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+185;14/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+185;15/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+186;15/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+186;16/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+187;16/12/2020;Snake-neck turtle;0;1;0;1;Open;2
+187;16/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+188;17/12/2020;Snake-neck turtle;1;0;0;1;Open;2
+188;17/12/2020;Snake-neck turtle;0;0;1;1;Open;2
+214;13/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+214;13/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+215;13/06/2020;Spiny hill turtle;0;1;1;2;Closed;1
+216;14/06/2020;Spiny hill turtle;0;2;0;2;Closed;1
+217;14/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+217;14/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+218;14/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+227;15/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+227;15/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+228;15/06/2020;Spiny hill turtle;0;0;2;2;Closed;1
+129;06/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+129;06/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+130;06/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+130;07/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+131;07/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+134;07/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+131;08/11/2020;Spiny hill turtle;2;0;0;2;Closed;2
+132;08/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+132;08/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+133;09/11/2020;Spiny hill turtle;0;2;0;2;Closed;2
+133;09/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+134;10/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+135;10/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+135;11/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+136;11/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+136;11/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+137;12/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+137;12/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+138;12/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+139;13/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+139;13/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+140;14/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+140;14/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+141;14/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+141;15/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+142;15/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+142;15/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+143;16/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+143;16/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+144;16/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+144;17/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+145;17/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+145;17/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+146;18/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+146;18/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+147;18/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+147;19/11/2020;Spiny hill turtle;0;2;0;2;Closed;2
+148;19/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+148;19/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+149;20/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+149;20/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+150;20/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+150;20/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+151;21/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+151;21/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+152;21/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+152;22/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+153;22/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+153;22/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+154;23/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+154;23/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+155;23/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+156;24/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+156;24/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+157;24/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+157;25/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+158;25/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+158;25/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+159;26/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+155;26/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+159;27/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+160;27/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+160;27/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+161;28/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+161;28/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+162;28/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+162;29/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+163;29/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+163;29/11/2020;Spiny hill turtle;0;1;1;2;Closed;2
+164;30/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+164;30/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+165;30/11/2020;Spiny hill turtle;0;0;2;2;Closed;2
+165;01/12/2020;Spiny hill turtle;0;0;2;2;Closed;2
+166;01/12/2020;Spiny hill turtle;0;1;1;2;Closed;2
+166;01/12/2020;Spiny hill turtle;0;1;1;2;Closed;2
+167;02/12/2020;Spiny hill turtle;0;1;1;2;Closed;2
+167;02/12/2020;Spiny hill turtle;0;0;2;2;Closed;2
+168;02/12/2020;Spiny hill turtle;0;1;1;2;Closed;2
+168;03/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+169;03/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+169;03/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+170;04/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+171;04/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+170;04/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+171;05/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+172;05/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+172;06/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+173;06/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+173;06/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+174;07/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+174;07/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+175;07/12/2020;Spiny hill turtle;2;0;0;2;Open;2
+177;08/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+176;08/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+175;08/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+176;08/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+177;09/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+178;09/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+178;10/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+179;10/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+179;11/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+180;11/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+180;11/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+181;12/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+182;12/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+181;12/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+182;13/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+183;13/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+183;13/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+184;14/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+184;14/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+185;14/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+185;15/12/2020;Spiny hill turtle;0;2;0;2;Open;2
+186;15/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+187;16/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+186;16/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+187;16/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+188;17/12/2020;Spiny hill turtle;0;1;1;2;Open;2
+188;17/12/2020;Spiny hill turtle;0;0;2;2;Open;2
+211;13/06/2020;Taipans;0;1;1;2;Closed;1
+211;13/06/2020;Taipans;0;1;1;2;Closed;1
+211;13/06/2020;Taipans;0;0;2;2;Closed;1
+220;14/06/2020;Taipans;0;0;2;2;Closed;1
+220;14/06/2020;Taipans;0;1;1;2;Closed;1
+220;14/06/2020;Taipans;2;0;0;2;Closed;1
+220;14/06/2020;Taipans;0;0;2;2;Closed;1
+224;15/06/2020;Taipans;0;0;2;2;Closed;1
+225;15/06/2020;Taipans;0;0;2;2;Closed;1
+129;06/11/2020;Taipans;0;0;2;2;Closed;2
+129;06/11/2020;Taipans;0;1;1;2;Closed;2
+130;06/11/2020;Taipans;0;2;0;2;Closed;2
+130;07/11/2020;Taipans;0;1;1;2;Closed;2
+131;07/11/2020;Taipans;0;2;0;2;Closed;2
+134;07/11/2020;Taipans;0;1;1;2;Closed;2
+131;08/11/2020;Taipans;0;1;1;2;Closed;2
+132;08/11/2020;Taipans;0;1;1;2;Closed;2
+132;08/11/2020;Taipans;0;2;0;2;Closed;2
+133;09/11/2020;Taipans;0;2;0;2;Closed;2
+133;09/11/2020;Taipans;0;2;0;2;Closed;2
+134;10/11/2020;Taipans;0;2;0;2;Closed;2
+135;11/11/2020;Taipans;0;2;0;2;Closed;2
+136;11/11/2020;Taipans;0;1;1;2;Closed;2
+136;11/11/2020;Taipans;0;2;0;2;Closed;2
+137;12/11/2020;Taipans;0;0;2;2;Closed;2
+137;12/11/2020;Taipans;0;0;2;2;Closed;2
+138;12/11/2020;Taipans;2;0;0;2;Closed;2
+139;13/11/2020;Taipans;0;2;0;2;Closed;2
+139;13/11/2020;Taipans;0;2;0;2;Closed;2
+140;14/11/2020;Taipans;0;1;1;2;Closed;2
+140;14/11/2020;Taipans;0;0;2;2;Closed;2
+141;15/11/2020;Taipans;0;1;1;2;Closed;2
+142;15/11/2020;Taipans;0;0;2;2;Closed;2
+142;15/11/2020;Taipans;0;1;1;2;Closed;2
+143;16/11/2020;Taipans;0;2;0;2;Closed;2
+143;16/11/2020;Taipans;0;2;0;2;Closed;2
+144;16/11/2020;Taipans;0;2;0;2;Closed;2
+144;17/11/2020;Taipans;0;0;2;2;Closed;2
+145;17/11/2020;Taipans;2;0;0;2;Closed;2
+145;17/11/2020;Taipans;0;2;0;2;Closed;2
+146;18/11/2020;Taipans;0;1;1;2;Closed;2
+146;18/11/2020;Taipans;0;2;0;2;Closed;2
+147;18/11/2020;Taipans;0;2;0;2;Closed;2
+147;19/11/2020;Taipans;0;2;0;2;Closed;2
+148;19/11/2020;Taipans;0;2;0;2;Closed;2
+148;19/11/2020;Taipans;0;2;0;2;Closed;2
+149;20/11/2020;Taipans;0;2;0;2;Closed;2
+149;20/11/2020;Taipans;0;2;0;2;Closed;2
+150;20/11/2020;Taipans;0;2;0;2;Closed;2
+150;20/11/2020;Taipans;0;2;0;2;Closed;2
+151;21/11/2020;Taipans;1;1;0;2;Closed;2
+151;21/11/2020;Taipans;0;2;0;2;Closed;2
+152;21/11/2020;Taipans;0;1;1;2;Closed;2
+152;22/11/2020;Taipans;1;0;1;2;Closed;2
+153;22/11/2020;Taipans;0;2;0;2;Closed;2
+153;22/11/2020;Taipans;0;1;1;2;Closed;2
+154;23/11/2020;Taipans;0;2;0;2;Closed;2
+154;23/11/2020;Taipans;0;1;1;2;Closed;2
+155;23/11/2020;Taipans;0;1;1;2;Closed;2
+156;24/11/2020;Taipans;1;0;1;2;Closed;2
+156;24/11/2020;Taipans;0;1;1;2;Closed;2
+157;24/11/2020;Taipans;0;2;0;2;Closed;2
+157;25/11/2020;Taipans;0;2;0;2;Closed;2
+158;25/11/2020;Taipans;0;2;0;2;Closed;2
+158;25/11/2020;Taipans;0;2;0;2;Closed;2
+159;26/11/2020;Taipans;1;1;0;2;Closed;2
+155;26/11/2020;Taipans;0;2;0;2;Closed;2
+159;27/11/2020;Taipans;0;2;0;2;Closed;2
+160;27/11/2020;Taipans;0;2;0;2;Closed;2
+160;27/11/2020;Taipans;0;2;0;2;Closed;2
+161;28/11/2020;Taipans;0;2;0;2;Closed;2
+161;28/11/2020;Taipans;0;2;0;2;Closed;2
+162;28/11/2020;Taipans;1;1;0;2;Closed;2
+162;29/11/2020;Taipans;0;2;0;2;Closed;2
+163;29/11/2020;Taipans;0;2;0;2;Closed;2
+163;29/11/2020;Taipans;0;0;2;2;Closed;2
+164;30/11/2020;Taipans;0;2;0;2;Closed;2
+164;30/11/2020;Taipans;0;2;0;2;Closed;2
+165;30/11/2020;Taipans;0;2;0;2;Closed;2
+165;01/12/2020;Taipans;0;2;0;2;Closed;2
+166;01/12/2020;Taipans;0;2;0;2;Closed;2
+166;01/12/2020;Taipans;0;2;0;2;Closed;2
+167;02/12/2020;Taipans;0;2;0;2;Closed;2
+167;02/12/2020;Taipans;0;1;1;2;Closed;2
+168;02/12/2020;Taipans;0;1;1;2;Closed;2
+168;03/12/2020;Taipans;0;2;0;2;Open;2
+169;03/12/2020;Taipans;0;1;1;2;Open;2
+169;03/12/2020;Taipans;0;1;1;2;Open;2
+170;04/12/2020;Taipans;0;0;2;2;Open;2
+171;04/12/2020;Taipans;0;2;0;2;Open;2
+170;04/12/2020;Taipans;0;1;1;2;Open;2
+171;05/12/2020;Taipans;0;2;0;2;Open;2
+172;05/12/2020;Taipans;0;2;0;2;Open;2
+172;06/12/2020;Taipans;0;2;0;2;Open;2
+173;06/12/2020;Taipans;0;1;1;2;Open;2
+174;07/12/2020;Taipans;0;1;1;2;Open;2
+174;07/12/2020;Taipans;0;2;0;2;Open;2
+175;07/12/2020;Taipans;0;1;1;2;Open;2
+177;08/12/2020;Taipans;0;0;2;2;Open;2
+176;08/12/2020;Taipans;0;2;0;2;Open;2
+175;08/12/2020;Taipans;0;0;2;2;Open;2
+176;08/12/2020;Taipans;0;2;0;2;Open;2
+177;09/12/2020;Taipans;0;2;0;2;Open;2
+178;09/12/2020;Taipans;0;0;2;2;Open;2
+178;10/12/2020;Taipans;0;1;1;2;Open;2
+179;10/12/2020;Taipans;0;2;0;2;Open;2
+179;11/12/2020;Taipans;0;2;0;2;Open;2
+180;11/12/2020;Taipans;0;1;1;2;Open;2
+180;11/12/2020;Taipans;0;1;1;2;Open;2
+181;12/12/2020;Taipans;1;1;0;2;Open;2
+182;12/12/2020;Taipans;0;2;0;2;Open;2
+181;12/12/2020;Taipans;0;1;1;2;Open;2
+182;13/12/2020;Taipans;0;2;0;2;Open;2
+183;13/12/2020;Taipans;0;2;0;2;Open;2
+183;13/12/2020;Taipans;0;2;0;2;Open;2
+184;14/12/2020;Taipans;1;1;0;2;Open;2
+184;14/12/2020;Taipans;0;2;0;2;Open;2
+185;14/12/2020;Taipans;0;2;0;2;Open;2
+185;15/12/2020;Taipans;0;2;0;2;Open;2
+186;15/12/2020;Taipans;0;2;0;2;Open;2
+187;16/12/2020;Taipans;1;1;0;2;Open;2
+186;16/12/2020;Taipans;0;0;2;2;Open;2
+187;16/12/2020;Taipans;0;2;0;2;Open;2
+188;17/12/2020;Taipans;1;1;0;2;Open;2
+188;17/12/2020;Taipans;0;2;0;2;Open;2
+214;13/06/2020;Telfair skink;0;4;0;4;Closed;1
+214;13/06/2020;Telfair skink;1;2;1;4;Closed;1
+215;13/06/2020;Telfair skink;0;2;2;4;Closed;1
+216;14/06/2020;Telfair skink;0;3;1;4;Closed;1
+216;14/06/2020;Telfair skink;0;2;2;4;Closed;1
+217;14/06/2020;Telfair skink;0;3;1;4;Closed;1
+218;14/06/2020;Telfair skink;0;1;3;4;Closed;1
+227;15/06/2020;Telfair skink;0;4;0;4;Closed;1
+227;15/06/2020;Telfair skink;0;0;4;4;Closed;1
+228;15/06/2020;Telfair skink;0;3;1;4;Closed;1
+129;06/11/2020;Telfair skink;0;4;0;4;Closed;2
+129;06/11/2020;Telfair skink;2;1;1;4;Closed;2
+130;06/11/2020;Telfair skink;0;1;3;4;Closed;2
+130;07/11/2020;Telfair skink;0;2;2;4;Closed;2
+131;07/11/2020;Telfair skink;0;1;3;4;Closed;2
+134;07/11/2020;Telfair skink;0;1;3;4;Closed;2
+131;08/11/2020;Telfair skink;1;1;2;4;Closed;2
+132;08/11/2020;Telfair skink;0;2;2;4;Closed;2
+132;08/11/2020;Telfair skink;0;2;2;4;Closed;2
+133;09/11/2020;Telfair skink;0;2;2;4;Closed;2
+133;09/11/2020;Telfair skink;0;2;2;4;Closed;2
+134;10/11/2020;Telfair skink;1;1;2;4;Closed;2
+135;10/11/2020;Telfair skink;0;0;4;4;Closed;2
+135;11/11/2020;Telfair skink;0;3;1;4;Closed;2
+136;11/11/2020;Telfair skink;0;1;3;4;Closed;2
+136;11/11/2020;Telfair skink;1;0;3;4;Closed;2
+137;12/11/2020;Telfair skink;0;3;1;4;Closed;2
+137;12/11/2020;Telfair skink;0;0;4;4;Closed;2
+138;12/11/2020;Telfair skink;0;0;4;4;Closed;2
+139;13/11/2020;Telfair skink;0;2;2;4;Closed;2
+139;13/11/2020;Telfair skink;0;0;4;4;Closed;2
+140;14/11/2020;Telfair skink;0;4;0;4;Closed;2
+140;14/11/2020;Telfair skink;0;1;3;4;Closed;2
+141;14/11/2020;Telfair skink;0;3;1;4;Closed;2
+141;15/11/2020;Telfair skink;0;3;1;4;Closed;2
+142;15/11/2020;Telfair skink;0;1;3;4;Closed;2
+142;15/11/2020;Telfair skink;0;3;1;4;Closed;2
+143;16/11/2020;Telfair skink;0;4;0;4;Closed;2
+143;16/11/2020;Telfair skink;0;4;0;4;Closed;2
+144;16/11/2020;Telfair skink;0;0;4;4;Closed;2
+144;17/11/2020;Telfair skink;0;3;1;4;Closed;2
+145;17/11/2020;Telfair skink;0;0;4;4;Closed;2
+145;17/11/2020;Telfair skink;1;0;3;4;Closed;2
+146;18/11/2020;Telfair skink;0;4;0;4;Closed;2
+146;18/11/2020;Telfair skink;1;1;2;4;Closed;2
+147;18/11/2020;Telfair skink;0;0;4;4;Closed;2
+147;19/11/2020;Telfair skink;1;1;2;4;Closed;2
+148;19/11/2020;Telfair skink;0;2;2;4;Closed;2
+148;19/11/2020;Telfair skink;0;2;2;4;Closed;2
+149;20/11/2020;Telfair skink;1;1;2;4;Closed;2
+149;20/11/2020;Telfair skink;0;3;1;4;Closed;2
+150;20/11/2020;Telfair skink;1;1;2;4;Closed;2
+150;20/11/2020;Telfair skink;0;0;4;4;Closed;2
+151;21/11/2020;Telfair skink;0;1;3;4;Closed;2
+151;21/11/2020;Telfair skink;0;1;3;4;Closed;2
+152;21/11/2020;Telfair skink;0;0;4;4;Closed;2
+152;22/11/2020;Telfair skink;0;3;1;4;Closed;2
+153;22/11/2020;Telfair skink;0;1;3;4;Closed;2
+153;22/11/2020;Telfair skink;0;1;3;4;Closed;2
+154;23/11/2020;Telfair skink;0;3;1;4;Closed;2
+154;23/11/2020;Telfair skink;0;1;3;4;Closed;2
+155;23/11/2020;Telfair skink;1;0;3;4;Closed;2
+156;24/11/2020;Telfair skink;0;4;0;4;Closed;2
+156;24/11/2020;Telfair skink;0;2;2;4;Closed;2
+157;24/11/2020;Telfair skink;1;1;2;4;Closed;2
+157;25/11/2020;Telfair skink;0;4;0;4;Closed;2
+158;25/11/2020;Telfair skink;0;1;3;4;Closed;2
+158;25/11/2020;Telfair skink;0;1;3;4;Closed;2
+159;26/11/2020;Telfair skink;0;1;3;4;Closed;2
+155;26/11/2020;Telfair skink;1;1;2;4;Closed;2
+159;27/11/2020;Telfair skink;0;3;1;4;Closed;2
+160;27/11/2020;Telfair skink;0;3;1;4;Closed;2
+160;27/11/2020;Telfair skink;0;1;3;4;Closed;2
+161;28/11/2020;Telfair skink;0;3;1;4;Closed;2
+161;28/11/2020;Telfair skink;0;4;0;4;Closed;2
+162;28/11/2020;Telfair skink;0;3;1;4;Closed;2
+162;29/11/2020;Telfair skink;0;3;1;4;Closed;2
+163;29/11/2020;Telfair skink;0;3;1;4;Closed;2
+163;29/11/2020;Telfair skink;1;1;2;4;Closed;2
+164;30/11/2020;Telfair skink;0;4;0;4;Closed;2
+164;30/11/2020;Telfair skink;0;1;3;4;Closed;2
+165;30/11/2020;Telfair skink;0;1;3;4;Closed;2
+165;01/12/2020;Telfair skink;0;3;1;4;Closed;2
+166;01/12/2020;Telfair skink;1;0;3;4;Closed;2
+166;01/12/2020;Telfair skink;0;0;4;4;Closed;2
+167;02/12/2020;Telfair skink;1;1;2;4;Closed;2
+167;02/12/2020;Telfair skink;0;4;0;4;Closed;2
+168;02/12/2020;Telfair skink;0;3;1;4;Closed;2
+168;03/12/2020;Telfair skink;0;1;3;4;Open;2
+169;03/12/2020;Telfair skink;1;0;3;4;Open;2
+169;03/12/2020;Telfair skink;0;3;1;4;Open;2
+170;04/12/2020;Telfair skink;0;2;2;4;Open;2
+171;04/12/2020;Telfair skink;0;0;4;4;Open;2
+170;04/12/2020;Telfair skink;0;1;3;4;Open;2
+171;05/12/2020;Telfair skink;1;0;3;4;Open;2
+172;05/12/2020;Telfair skink;0;1;3;4;Open;2
+172;06/12/2020;Telfair skink;0;0;4;4;Open;2
+173;06/12/2020;Telfair skink;0;2;2;4;Open;2
+173;06/12/2020;Telfair skink;0;1;3;4;Open;2
+174;07/12/2020;Telfair skink;0;2;2;4;Open;2
+174;07/12/2020;Telfair skink;0;2;2;4;Open;2
+175;07/12/2020;Telfair skink;0;1;3;4;Open;2
+177;08/12/2020;Telfair skink;0;2;2;4;Open;2
+176;08/12/2020;Telfair skink;1;1;2;4;Open;2
+175;08/12/2020;Telfair skink;0;3;1;4;Open;2
+176;08/12/2020;Telfair skink;1;1;2;4;Open;2
+177;09/12/2020;Telfair skink;0;3;1;4;Open;2
+178;09/12/2020;Telfair skink;0;3;1;4;Open;2
+178;10/12/2020;Telfair skink;1;1;2;4;Open;2
+179;10/12/2020;Telfair skink;1;1;2;4;Open;2
+179;11/12/2020;Telfair skink;1;0;3;4;Open;2
+180;11/12/2020;Telfair skink;0;1;3;4;Open;2
+180;11/12/2020;Telfair skink;0;1;3;4;Open;2
+181;12/12/2020;Telfair skink;0;2;2;4;Open;2
+182;12/12/2020;Telfair skink;1;1;2;4;Open;2
+181;12/12/2020;Telfair skink;0;2;2;4;Open;2
+182;13/12/2020;Telfair skink;0;3;1;4;Open;2
+183;13/12/2020;Telfair skink;0;3;1;4;Open;2
+183;13/12/2020;Telfair skink;1;2;1;4;Open;2
+184;14/12/2020;Telfair skink;0;3;1;4;Open;2
+184;14/12/2020;Telfair skink;0;1;3;4;Open;2
+185;14/12/2020;Telfair skink;0;1;3;4;Open;2
+185;15/12/2020;Telfair skink;1;3;0;4;Open;2
+186;15/12/2020;Telfair skink;1;1;2;4;Open;2
+186;16/12/2020;Telfair skink;0;2;2;4;Open;2
+187;16/12/2020;Telfair skink;0;2;2;4;Open;2
+187;16/12/2020;Telfair skink;0;1;3;4;Open;2
+188;17/12/2020;Telfair skink;0;3;1;4;Open;2
+188;17/12/2020;Telfair skink;0;1;3;4;Open;2
+214;13/06/2020;Tokay gecko;0;0;3;3;Closed;1
+214;13/06/2020;Tokay gecko;0;1;2;3;Closed;1
+215;13/06/2020;Tokay gecko;0;0;3;3;Closed;1
+216;14/06/2020;Tokay gecko;0;0;3;3;Closed;1
+217;14/06/2020;Tokay gecko;0;0;3;3;Closed;1
+217;14/06/2020;Tokay gecko;0;0;3;3;Closed;1
+218;14/06/2020;Tokay gecko;0;1;2;3;Closed;1
+227;15/06/2020;Tokay gecko;0;0;3;3;Closed;1
+227;15/06/2020;Tokay gecko;0;0;3;3;Closed;1
+228;15/06/2020;Tokay gecko;0;0;3;3;Closed;1
+129;06/11/2020;Tokay gecko;0;0;3;3;Closed;2
+129;06/11/2020;Tokay gecko;0;0;3;3;Closed;2
+130;06/11/2020;Tokay gecko;1;0;2;3;Closed;2
+130;07/11/2020;Tokay gecko;0;1;2;3;Closed;2
+131;07/11/2020;Tokay gecko;0;0;3;3;Closed;2
+134;07/11/2020;Tokay gecko;0;1;2;3;Closed;2
+131;08/11/2020;Tokay gecko;0;2;1;3;Closed;2
+132;08/11/2020;Tokay gecko;0;1;2;3;Closed;2
+132;08/11/2020;Tokay gecko;0;1;2;3;Closed;2
+133;09/11/2020;Tokay gecko;0;1;2;3;Closed;2
+133;09/11/2020;Tokay gecko;0;0;3;3;Closed;2
+134;10/11/2020;Tokay gecko;0;0;3;3;Closed;2
+135;11/11/2020;Tokay gecko;0;1;2;3;Closed;2
+136;11/11/2020;Tokay gecko;0;1;2;3;Closed;2
+137;12/11/2020;Tokay gecko;0;0;3;3;Closed;2
+137;12/11/2020;Tokay gecko;0;0;3;3;Closed;2
+138;12/11/2020;Tokay gecko;0;0;3;3;Closed;2
+139;13/11/2020;Tokay gecko;0;0;3;3;Closed;2
+140;14/11/2020;Tokay gecko;0;0;3;3;Closed;2
+140;14/11/2020;Tokay gecko;0;0;3;3;Closed;2
+141;14/11/2020;Tokay gecko;0;0;3;3;Closed;2
+141;15/11/2020;Tokay gecko;0;0;3;3;Closed;2
+142;15/11/2020;Tokay gecko;0;1;2;3;Closed;2
+142;15/11/2020;Tokay gecko;0;1;2;3;Closed;2
+143;16/11/2020;Tokay gecko;0;0;3;3;Closed;2
+143;16/11/2020;Tokay gecko;0;0;3;3;Closed;2
+144;16/11/2020;Tokay gecko;0;0;3;3;Closed;2
+144;17/11/2020;Tokay gecko;0;0;3;3;Closed;2
+145;17/11/2020;Tokay gecko;0;0;3;3;Closed;2
+145;17/11/2020;Tokay gecko;0;3;0;3;Closed;2
+146;18/11/2020;Tokay gecko;0;1;2;3;Closed;2
+146;18/11/2020;Tokay gecko;0;0;3;3;Closed;2
+147;18/11/2020;Tokay gecko;0;0;3;3;Closed;2
+147;19/11/2020;Tokay gecko;0;0;3;3;Closed;2
+148;19/11/2020;Tokay gecko;0;0;3;3;Closed;2
+148;19/11/2020;Tokay gecko;0;0;3;3;Closed;2
+149;20/11/2020;Tokay gecko;0;0;3;3;Closed;2
+149;20/11/2020;Tokay gecko;0;0;3;3;Closed;2
+150;20/11/2020;Tokay gecko;0;0;3;3;Closed;2
+150;20/11/2020;Tokay gecko;0;1;2;3;Closed;2
+151;21/11/2020;Tokay gecko;0;0;3;3;Closed;2
+151;21/11/2020;Tokay gecko;0;0;3;3;Closed;2
+152;21/11/2020;Tokay gecko;0;0;3;3;Closed;2
+152;22/11/2020;Tokay gecko;0;0;3;3;Closed;2
+153;22/11/2020;Tokay gecko;0;0;3;3;Closed;2
+153;22/11/2020;Tokay gecko;0;1;2;3;Closed;2
+154;23/11/2020;Tokay gecko;0;0;3;3;Closed;2
+154;23/11/2020;Tokay gecko;0;0;3;3;Closed;2
+155;23/11/2020;Tokay gecko;0;1;2;3;Closed;2
+156;24/11/2020;Tokay gecko;0;0;3;3;Closed;2
+156;24/11/2020;Tokay gecko;0;0;3;3;Closed;2
+157;24/11/2020;Tokay gecko;0;0;3;3;Closed;2
+157;25/11/2020;Tokay gecko;0;0;3;3;Closed;2
+158;25/11/2020;Tokay gecko;0;0;3;3;Closed;2
+158;25/11/2020;Tokay gecko;0;0;3;3;Closed;2
+159;26/11/2020;Tokay gecko;0;0;3;3;Closed;2
+155;26/11/2020;Tokay gecko;0;0;3;3;Closed;2
+159;27/11/2020;Tokay gecko;0;1;2;3;Closed;2
+160;27/11/2020;Tokay gecko;0;0;3;3;Closed;2
+160;27/11/2020;Tokay gecko;0;0;3;3;Closed;2
+161;28/11/2020;Tokay gecko;0;0;3;3;Closed;2
+161;28/11/2020;Tokay gecko;0;1;2;3;Closed;2
+162;28/11/2020;Tokay gecko;0;0;3;3;Closed;2
+162;29/11/2020;Tokay gecko;0;0;3;3;Closed;2
+163;29/11/2020;Tokay gecko;0;0;3;3;Closed;2
+163;29/11/2020;Tokay gecko;0;0;3;3;Closed;2
+164;30/11/2020;Tokay gecko;0;1;2;3;Closed;2
+164;30/11/2020;Tokay gecko;0;0;3;3;Closed;2
+165;30/11/2020;Tokay gecko;0;0;3;3;Closed;2
+165;01/12/2020;Tokay gecko;0;0;3;3;Closed;2
+166;01/12/2020;Tokay gecko;0;0;3;3;Closed;2
+166;01/12/2020;Tokay gecko;0;0;3;3;Closed;2
+167;02/12/2020;Tokay gecko;0;0;3;3;Closed;2
+167;02/12/2020;Tokay gecko;0;0;3;3;Closed;2
+168;02/12/2020;Tokay gecko;0;0;3;3;Closed;2
+168;03/12/2020;Tokay gecko;0;0;3;3;Open;2
+169;03/12/2020;Tokay gecko;0;0;3;3;Open;2
+169;03/12/2020;Tokay gecko;0;0;3;3;Open;2
+170;04/12/2020;Tokay gecko;0;0;3;3;Open;2
+171;04/12/2020;Tokay gecko;0;0;3;3;Open;2
+170;04/12/2020;Tokay gecko;0;0;3;3;Open;2
+171;05/12/2020;Tokay gecko;0;0;3;3;Open;2
+172;05/12/2020;Tokay gecko;0;0;3;3;Open;2
+172;06/12/2020;Tokay gecko;0;0;3;3;Open;2
+173;06/12/2020;Tokay gecko;0;0;3;3;Open;2
+173;06/12/2020;Tokay gecko;0;0;3;3;Open;2
+174;07/12/2020;Tokay gecko;0;1;2;3;Open;2
+174;07/12/2020;Tokay gecko;0;0;3;3;Open;2
+175;07/12/2020;Tokay gecko;0;0;3;3;Open;2
+177;08/12/2020;Tokay gecko;0;1;2;3;Open;2
+176;08/12/2020;Tokay gecko;0;0;3;3;Open;2
+175;08/12/2020;Tokay gecko;0;0;3;3;Open;2
+176;08/12/2020;Tokay gecko;0;0;3;3;Open;2
+177;09/12/2020;Tokay gecko;0;0;3;3;Open;2
+178;09/12/2020;Tokay gecko;0;0;3;3;Open;2
+178;10/12/2020;Tokay gecko;0;1;2;3;Open;2
+179;10/12/2020;Tokay gecko;0;0;3;3;Open;2
+179;11/12/2020;Tokay gecko;0;0;3;3;Open;2
+180;11/12/2020;Tokay gecko;0;1;2;3;Open;2
+180;11/12/2020;Tokay gecko;0;0;3;3;Open;2
+181;12/12/2020;Tokay gecko;0;0;3;3;Open;2
+182;12/12/2020;Tokay gecko;0;0;3;3;Open;2
+181;12/12/2020;Tokay gecko;0;0;3;3;Open;2
+182;13/12/2020;Tokay gecko;0;0;3;3;Open;2
+183;13/12/2020;Tokay gecko;0;1;2;3;Open;2
+183;13/12/2020;Tokay gecko;0;0;3;3;Open;2
+184;14/12/2020;Tokay gecko;0;0;3;3;Open;2
+184;14/12/2020;Tokay gecko;0;0;3;3;Open;2
+185;14/12/2020;Tokay gecko;0;1;2;3;Open;2
+185;15/12/2020;Tokay gecko;0;0;3;3;Open;2
+186;15/12/2020;Tokay gecko;0;0;3;3;Open;2
+186;16/12/2020;Tokay gecko;0;0;3;3;Open;2
+187;16/12/2020;Tokay gecko;0;0;3;3;Open;2
+187;16/12/2020;Tokay gecko;0;2;1;3;Open;2
+188;17/12/2020;Tokay gecko;0;1;2;3;Open;2
+188;17/12/2020;Tokay gecko;0;1;2;3;Open;2
